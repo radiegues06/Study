@@ -10,3 +10,5 @@ List of Study Repositories
 ## Compendium of Subjects
 The links below cover various subjects and have a lot of references to other topics. They cover inumerous programming languages, fundamental concepts and paradigms.
 * [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
+* [Open Source Society University](https://github.com/ossu/computer-science)
+    * Path to a free self-taught education in Computer Science.
